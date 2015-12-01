@@ -15,10 +15,10 @@ var myMode='Loud';
 var callNum=1;
 
 var T = new Twit({
- consumer_key:'L1HSHu3Svaov1JxHDR5spcIME',
- consumer_secret:'zgyrL0QbVpDWeze27iIphuLhb5Qyrk5Ofm6rkFbBzI5yr3Zw0x',
- access_token:'463048531-5qHfvxknt7qmBtyYTPjw05nkLjOjfbZ2iUYVcLGd',
- access_token_secret:'8hJLDSmESouF5jKslmZ9XNfF09TzNSfqwXqrzhNqp35ZO'
+ consumer_key:'',
+ consumer_secret:',
+ access_token:'',
+ access_token_secret:''
 });
 
 //Posting a tweet(Check-In)
